@@ -36,7 +36,7 @@
 - Cheese
 - Tomatoes
 
-**Unordered List**
+**Ordered List**
 1. Cut the cheese
 2. Slice the tomatoes
 3. Rub the tomatoes in flour
