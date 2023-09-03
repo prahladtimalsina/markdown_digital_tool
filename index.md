@@ -4,8 +4,6 @@
 ## Exercise 
 
 
-
-
 | Format | Markdown | Output |
 | ------ | ------ | ------ | 
 |  _ITALICS_| Writing in Markdown is not that hard!  | Writing in Markdown is _not_ that hard! 
@@ -79,6 +77,10 @@ If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
+
+### Connect with me on :-> [LinkedIn](https://www.linkedin.com/in/prahladtimalsina/) & [Github](https://www.github.com/prahladtimalsina/)
+
 
 
 
