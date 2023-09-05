@@ -28,7 +28,7 @@ ___
 
  &darr;
 
-"_*Of course,*_" she whispered. Then, she shouted: "All I need is **a little moxie!**"
+"_Of course,_" she whispered. Then, she shouted: "All I need is **a little moxie!**"
 
 
 ___
@@ -92,7 +92,10 @@ Call the first reference tag "a fun place", and make it link to www.zombo.com; m
 
 &darr;
 
-Do you want to [see something fun][a fun place]? Well, do I have [the website for you][another fun place]!
+Do you want to [see something fun][a fun place] ? 
+
+Well, do I have [the website for you][another fun place]!
+
 [a fun place]: http://www.zombo.com 
 [another fun place]: http://www.stumbleupon.com
 ___
@@ -113,8 +116,12 @@ Call the first reference tag "Black", and make it link to https://upload.wikimed
 
 &darr;
 
-![Black cat][Black] ![Orange cat][Orange] [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+[Black cat][Black]
 
+[Orange cat][Orange]
+
+[Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+[Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 ___
 
 # Blockquote
