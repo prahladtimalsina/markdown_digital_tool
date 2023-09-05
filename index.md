@@ -4,17 +4,37 @@
 ## Exercise 
 
 ## Italics
+
+&darr;
+
 Writing in Markdown is _not_ that hard! 
 ___
-**Bold**&rarr;
+**Bold**
+
+&darr;
+
 I **will** complete these lessions. 
 ___
- _Both or across italics_ and **Bold**&rarr;
+
+ ## _Both or across italics_ and **Bold**
+ 
+ &darr;
+
  "_Of course,_" she whispered. Then, she shouted: "All I need is **a little moxie!**" 
+
 ___
-**_Make both words Bold and Italics_**&rarr;If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
+
+## **_Make both words Bold and Italics_**
+
+&darr;
+
+If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 ___
-**Headers**
+
+# Headers
+
+&darr;
+
 # Header One
 ## Header Two
 ### Header Three
@@ -23,8 +43,14 @@ ___
 ###### Header Six
 ***
 ## Heading 4
+### Make the first line a heading level four, and italicize the name of the book:
+
+&darr;
+
 #### *Colombian Symbolism in One Hundred Years of Solitude* Here's some words about the book _One Hundred Years..._.
+
 ***
+
 ## Links
 Make a link to www.google.com, with link text that says "Search for it."&rarr;[Search for it.](https://www.google.com) 
 ***
