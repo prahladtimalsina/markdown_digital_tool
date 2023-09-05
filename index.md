@@ -10,7 +10,9 @@
 &darr;
 
 Writing in Markdown is _not_ that hard! 
+
 ***
+
 ## Bold
 
 ### Make the word "will" bold.
@@ -19,6 +21,7 @@ Writing in Markdown is _not_ that hard!
 
 I **will** complete these lessions. 
 ___
+
 ## Both Bold and Italics
 
 ### Make the words "Of course" italic, and the words "a little moxie" bold.
@@ -47,7 +50,9 @@ ___
 #### Header Four
 ##### Header Five
 ###### Header Six
+
 ***
+
 ## Heading 4
 ### Make the first line a heading level four, and italicize the name of the book:
 
