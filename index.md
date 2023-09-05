@@ -4,6 +4,8 @@
 ## Exercise 
 
 
+
+
 | Format | Markdown | Output |
 | ------ | ------ | ------ | 
 |  _ITALICS_| Writing in Markdown is not that hard!  | Writing in Markdown is _not_ that hard! 
@@ -16,9 +18,7 @@
 |   Add emphasis to link texts|  Make the phrase "really, really" bold, and have the entire sentence link to www.dailykitten.com.   | [ You're **really, really** going to want to see this.](https://www.dailykitten.com)
 |  Make links within headings| The Latest News from the BBC  | #### [The Latest News from the BBC](http://www.bbc.com/news)
 |  Reference Links | Call the first reference tag "a fun place", and make it link to www.zombo.com; make the second link out to www.stumbleupon.com. **Do you want to [see something fun][]? Well, do I have [the website for you][another fun place]!**  | Do you want to [see something fun][a fun place]? Well, do I have [the website for you][another fun place]!        [a fun place]: http://www.zombo.com [another fun place]: http://www.stumbleupon.com
-|  Images |  Turn the link to an image, and fill out the alt text brackets to say "A pretty tiger":[A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)| ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
-|  **Reference Image**| Call the first reference tag "Black", and make it link to https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg; make the second image link out to http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png. [Black cat][] [Orange cat][Orange] [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg  | ![Black cat][Black] ![Orange cat][Orange] [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
-|**Blockquote**|
+**Blockquote**|
 >"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!" 
 
 >Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo...
