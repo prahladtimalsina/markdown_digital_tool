@@ -102,17 +102,24 @@ ___
 
 ## Add an image
 
+
 Turn the link to an image, and fill out the alt text brackets to say "A pretty tiger":[A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 &darr;
 
-![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg "A pretty tiger")
 
 ___
 ## Reference Images
 Call the first reference tag "Black", and make it link to https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg; make the second image link out to http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png.
 
-[Black cat][] [Orange cat][Orange] [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg 
+&darr;
+
+![Black cat][Black]
+
+![Orange cat][Orange]
+
+
 
 &darr;
 
@@ -121,7 +128,7 @@ Call the first reference tag "Black", and make it link to https://upload.wikimed
 [Orange cat][Orange]
 
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
-[Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+[Orange]:https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 ___
 
 # Blockquote
