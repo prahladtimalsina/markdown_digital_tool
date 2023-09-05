@@ -63,14 +63,27 @@ ___
 ***
 
 ## Links
-Make a link to www.google.com, with link text that says "Search for it."&rarr;[Search for it.](https://www.google.com) 
+Make a link to www.google.com, with link text that says "Search for it."
+
+&darr;
+
+[Search for it.](https://www.google.com) 
+
 ***
+
 ##  Add emphasis to link texts
-Make the phrase "really, really" bold, and have the entire sentence link to www.dailykitten.com.&rarr;[ You're **really, really** going to want to see this.](https://www.dailykitten.com)
+Make the phrase "really, really" bold, and have the entire sentence link to www.dailykitten.com.
+
+&darr;
+
+[ You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
 ___
 ## Make links within headings
-The Latest News from the BBC...&darr;
+The Latest News from the BBC...
+
+&darr;
+
 #### [The Latest News from the BBC](http://www.bbc.com/news)
 ___
 
