@@ -203,7 +203,7 @@ If you _do_ make a mess, use a towel to clean it up!
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
 
 
-### Connect with me on :-> [LinkedIn](https://www.linkedin.com/in/prahladtimalsina/) & [Github](https://www.github.com/prahladtimalsina/)
+###  [Github](https://www.github.com/prahladtimalsina/)
 
 
 
