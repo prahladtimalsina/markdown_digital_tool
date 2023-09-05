@@ -5,11 +5,15 @@
 
 ## Italics
 
+### Make the word "not" italic.
+
 &darr;
 
 Writing in Markdown is _not_ that hard! 
-___
-**Bold**
+***
+## Bold
+
+### Make the word "will" bold.
 
 &darr;
 
@@ -17,6 +21,7 @@ I **will** complete these lessions.
 ___
 
  ## _Both or across italics_ and **Bold**
+ ### Make the words "Of course" italic, and the words "a little moxie" bold.
  
  &darr;
 
