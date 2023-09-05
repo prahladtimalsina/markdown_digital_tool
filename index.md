@@ -3,31 +3,98 @@
 
 ## Exercise 
 
+## Italics
+Writing in Markdown is _not_ that hard! 
+___
+**Bold**&rarr;
+I **will** complete these lessions. 
+___
+ _Both or across italics_ and **Bold**&rarr;
+ "_Of course,_" she whispered. Then, she shouted: "All I need is **a little moxie!**" 
+___
+**_Make both words Bold and Italics_**&rarr;If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
+___
+**Headers**
+# Header One
+## Header Two
+### Header Three
+#### Header Four
+##### Header Five
+###### Header Six
+***
+## Heading 4
+#### *Colombian Symbolism in One Hundred Years of Solitude* Here's some words about the book _One Hundred Years..._.
+***
+## Links
+Make a link to www.google.com, with link text that says "Search for it."&rarr;[Search for it.](https://www.google.com) 
+***
+##  Add emphasis to link texts
+Make the phrase "really, really" bold, and have the entire sentence link to www.dailykitten.com.&rarr;[ You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
+___
+## Make links within headings
+The Latest News from the BBC...&darr;
+#### [The Latest News from the BBC](http://www.bbc.com/news)
+___
 
+## Reference Links
+Call the first reference tag "a fun place", and make it link to www.zombo.com; make the second link out to www.stumbleupon.com
 
-| Format | Markdown | Output |
-| ------ | ------ | ------ | 
-|  _ITALICS_| Writing in Markdown is not that hard!  | Writing in Markdown is _not_ that hard! 
-|  **BOLD**| I will complete these lessons!  | I **will** complete these lessions. 
-|  _both or across italics_ and **Bold** | "Of course," she whispered. Then, she shouted: "All I need is a little moxie!"  | "_Of course,_" she whispered. Then, she shouted: "All I need is **a little moxie!**"
-|  **_Make both words Bold and Italics_**| If you're thinking to yourself, This is unbelievable, you'd probably be right.  | If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right. 
-| Headers| \#, \##, \###, \####, \#####, \###### (from h1 to h6)  | **#Header 1**, **## Header 2** , **### header 3**, **#### header 4**, **##### header 5**, **###### header 6** _**(From h1 to h6)**_
-|  Heading 4 | Colombian Symbolism in One Hundred Years of Solitude  | #### *Colombian Symbolism in One Hundred Years of Solitude*
-|  Links|  Make a link to www.google.com, with link text that says "Search for it."   | [Search for it.](https://www.google.com) 
-|   Add emphasis to link texts|  Make the phrase "really, really" bold, and have the entire sentence link to www.dailykitten.com.   | [ You're **really, really** going to want to see this.](https://www.dailykitten.com)
-|  Make links within headings| The Latest News from the BBC  | #### [The Latest News from the BBC](http://www.bbc.com/news)
-|  Reference Links | Call the first reference tag "a fun place", and make it link to www.zombo.com; make the second link out to www.stumbleupon.com. **Do you want to [see something fun][]? Well, do I have [the website for you][another fun place]!**  | Do you want to [see something fun][a fun place]? Well, do I have [the website for you][another fun place]!        [a fun place]: http://www.zombo.com [another fun place]: http://www.stumbleupon.com
-**Blockquote**|
+&darr;
+
+Do you want to [see something fun][a fun place]? Well, do I have [the website for you][another fun place]!
+[a fun place]: http://www.zombo.com 
+[another fun place]: http://www.stumbleupon.com
+___
+
+## Add an image
+
+Turn the link to an image, and fill out the alt text brackets to say "A pretty tiger":[A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
+&darr;
+
+![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
+___
+## Reference Images
+Call the first reference tag "Black", and make it link to https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg; make the second image link out to http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png.
+
+[Black cat][] [Orange cat][Orange] [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg 
+
+&darr;
+
+![Black cat][Black] ![Orange cat][Orange] [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+
+___
+
+# Blockquote
+
+## Turn the book quotation into a blockquote:
+
+I read this interesting quote the other day:
+
+"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
+
+&darr;
+
+I read this interesting quote the other day:
+
 >"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!" 
 
+___
+
+## Make the entire quotation a block quote by inserting a caret on each line.
+&darr;
 >Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo...
-
+>
 > His father told him that story: his father looked at him through a glass: he had a hairy face.
-
+>
 > He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.
+___
 
- > He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four _French_ delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: VIVE L'IRLANDE! 
+### Make the French text italic (not including the exclamation point). Also, turn the entire quote into a blockquote.
+&darr;
+ > He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_! 
 
  **List**
 - Flour
