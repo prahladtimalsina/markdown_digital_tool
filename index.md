@@ -19,13 +19,14 @@ Writing in Markdown is _not_ that hard!
 
 I **will** complete these lessions. 
 ___
+## Both Bold and Italics
 
- ## _Both or across italics_ and **Bold**
- ### Make the words "Of course" italic, and the words "a little moxie" bold.
- 
+### Make the words "Of course" italic, and the words "a little moxie" bold.
+
  &darr;
 
- "_Of course,_" she whispered. Then, she shouted: "All I need is **a little moxie!**" 
+"_*Of course,*_" she whispered. Then, she shouted: "All I need is **a little moxie!**"
+
 
 ___
 
